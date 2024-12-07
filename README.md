@@ -3,4 +3,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Interdependent&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,lua,cs,pycharm,swift)](https://skillicons.dev)
